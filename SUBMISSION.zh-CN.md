@@ -21,7 +21,7 @@ ChatGPT 识图与云端保存需要联网；下载好的清单 PNG 可以离线�
 | Convex 数据库、函数和实时更新 | 已实现并有测试记录 | 录制真实同步过程 |
 | 合作方集成 | 用 Codex 构建；OpenAI/Firecrawl/AgentMail 产品调用尚未实测 | 不能以 Gemini/Puter 代替赞助方实用集成的证据；完成实际接入或明确确认资格 |
 | convex.site / chatgpt.site 网址 | 已公开，未登录新会话验证通过 | 保留现有网址 |
-| 公开 GitHub 仓库 | 连接账号已确认为 jidongan150-ui；尚未建公开仓库 | 发布核查后的代码、MIT 许可证、第三方许可及日志 |
+| 公开 GitHub 仓库 | https://github.com/jidongan150-ui/pantry-weave；源代码已上传 | 已包含 MIT 许可证、第三方许可及构建日志 |
 | 根目录 hackathon.md | 已存在 | 加上最终仓库、演示链接与实测结论 |
 | 不到 3 分钟的演示 | 已制作约 76 秒本地功能草稿；另附 2:40 完整脚本 | 补充实际云端流程并提供可访问的视频地址 |
 | X 或 LinkedIn 分享 | 文案草稿已准备，未发布 | 使用实际成品和最终链接，标注四家赞助方 |
@@ -97,7 +97,7 @@ before saving. Signed-out lists are stored in the current browser.
 ## 待准备的最终链接
 
 - 可由评委访问的应用：沿用现有网址，已公开并通过无登录访问检查。
-- 公开仓库：待创建和核查。
+- 公开仓库：https://github.com/jidongan150-ui/pantry-weave
 - 演示视频：本地草稿已录制，最终云端演示和公开地址待完成。
 - 社交帖子：文案已准备，最终链接和发布待完成。
 

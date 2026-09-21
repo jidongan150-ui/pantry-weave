@@ -4,7 +4,7 @@
 - **Event:** Convex All Gas Hackathon
 - **What it does:** Combines recipes into one shopping list, scales ingredient quantities by serving count, and tracks ingredients already on hand.
 - **Live app:** https://pantry-weave-recipes.jidongan150.chatgpt.site
-- **Repo:** none
+- **Repo:** https://github.com/jidongan150-ui/pantry-weave
 - **Frontend:** Codex Sites
 - **Convex deployment:** https://peaceful-butterfly-641.convex.cloud (development)
 - **Components:** @convex-dev/rate-limiter
@@ -12,7 +12,7 @@
 - **Auth:** Other (Sites ChatGPT sign-in with a Convex JWT bridge)
 - **AI models:** gpt-4.1-mini (URL-import default; not invoked); gemini-2.5-flash-lite (Puter image route configured; real inference not yet verified)
 - **Started:** 2026-09-18T12:43:34Z
-- **Last updated:** 2026-09-21T12:33:43Z
+- **Last updated:** 2026-09-21T19:47:39Z
 
 ## Log
 
@@ -224,3 +224,14 @@ list and optional sign-in, accepted a recipe link, saved it locally and retained
 after refresh without page errors. No change to Convex owner checks or cloud data.
 GitHub repository publication is awaiting the separate official Git authentication;
 the existing connector does not expose a create-repository operation.
+
+### 2026-09-21 - public source release
+
+The user created the public GitHub repository. Published all 178 tracked files
+through the existing GitHub connector; no additional Git authentication was needed.
+Release commit `89c7e5f` has tree `e6b02aac2cf3cb029599564fce59bf6fba2dafef`,
+identical to local snapshot `2462c47`. The release includes tests, the MIT license,
+third-party notices and this log. Common credential-pattern checks covered 178
+tracked files and 35 local commits with no matches; this is a bounded scan.
+Updated the README and submission notes with the repository URL. The GitHub
+release uses a source snapshot; the earlier local commit history was not imported.
