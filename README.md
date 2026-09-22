@@ -6,6 +6,8 @@
 
 公开源码：https://github.com/jidongan150-ui/pantry-weave
 
+演示视频：[1 分 55 秒，英文配音和字幕](https://github.com/jidongan150-ui/pantry-weave/tree/main/demo)。展示正式网站免登录流程；不包含现场 AI 识图或云端同步画面。
+
 站点已公开，访客无需邀请即可使用本机清单；登录后按用户保存云端清单。本次版本接入 Convex 云端开发环境。最新发布与公开访问证据见 `hackathon.md`。
 
 ## 中英文与安全检查
@@ -22,7 +24,7 @@
 - 未登录或未配置 Convex 时，清单保存在本浏览器，支持刷新和同一浏览器不同标签页；本机其他使用者也能看到，清理浏览器数据会删除它。存储不可用时明确提示刷新会丢失。登录后使用独立的 Convex 云端清单，不自动搬迁本机食谱。
 - 登录使用 Sites 的 ChatGPT 身份；服务端签发短期凭证，Convex 校验后按用户隔离数据。同一账户重新进入仍能读取自己的清单。仅知道清单标识不能访问数据。
 - Firecrawl 抓取公开食谱网页、OpenAI 提取结构化食材、AgentMail 发清单的后端代码已实现。尚未配置真实账户，也未进行实际抓取或邮件发送测试。
-- 云端开发环境为 `https://peaceful-butterfly-641.convex.cloud`。网站及 GitHub 源码已公开；真实网页导入、邮件联测、最终演示和参赛提交仍未完成。
+- 云端开发环境为 `https://peaceful-butterfly-641.convex.cloud`。网站、GitHub 源码及演示视频已公开；真实网页导入、邮件联测和参赛提交仍未完成。
 
 ## 图片导入
 

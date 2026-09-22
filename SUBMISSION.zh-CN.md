@@ -1,6 +1,6 @@
 # Pantry Weave：提交准备包
 
-核对日期：2026-09-21。此文件为准备材料，**不是已提交记录**。
+核对日期：2026-09-22。此文件为准备材料，**不是已提交记录**。
 
 ## 发布方式
 
@@ -23,7 +23,7 @@ ChatGPT 识图与云端保存需要联网；下载好的清单 PNG 可以离线�
 | convex.site / chatgpt.site 网址 | 已公开，未登录新会话验证通过 | 保留现有网址 |
 | 公开 GitHub 仓库 | https://github.com/jidongan150-ui/pantry-weave；源代码已上传 | 已包含 MIT 许可证、第三方许可及构建日志 |
 | 根目录 hackathon.md | 已存在 | 加上最终仓库、演示链接与实测结论 |
-| 不到 3 分钟的演示 | 已制作约 76 秒本地功能草稿；另附 2:40 完整脚本 | 补充实际云端流程并提供可访问的视频地址 |
+| 不到 3 分钟的演示 | 1:55.04 英文配音字幕成片，见仓库 demo 目录 | 免登录正式站点实录；未展示现场识图、云端登录及同步 |
 | X 或 LinkedIn 分享 | 文案草稿已准备，未发布 | 使用实际成品和最终链接，标注四家赞助方 |
 | 提交表单 | 未提交 | 使用下方官方准确入口 |
 
@@ -98,7 +98,8 @@ before saving. Signed-out lists are stored in the current browser.
 
 - 可由评委访问的应用：沿用现有网址，已公开并通过无登录访问检查。
 - 公开仓库：https://github.com/jidongan150-ui/pantry-weave
-- 演示视频：本地草稿已录制，最终云端演示和公开地址待完成。
+- 演示视频：https://raw.githubusercontent.com/jidongan150-ui/pantry-weave/main/demo/pantry-weave-demo.mp4
+- 视频说明：https://github.com/jidongan150-ui/pantry-weave/tree/main/demo 。此为公开 MP4；若提交表单限定视频平台，需按实际字段要求另行上传。
 - 社交帖子：文案已准备，最终链接和发布待完成。
 
 这些链接齐备前不点击最终提交，不编造占位链接。

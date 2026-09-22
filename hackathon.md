@@ -12,7 +12,7 @@
 - **Auth:** Other (Sites ChatGPT sign-in with a Convex JWT bridge)
 - **AI models:** gpt-4.1-mini (URL-import default; not invoked); gemini-2.5-flash-lite (Puter image route configured; real inference not yet verified)
 - **Started:** 2026-09-18T12:43:34Z
-- **Last updated:** 2026-09-21T19:47:39Z
+- **Last updated:** 2026-09-22T07:18:55Z
 
 ## Log
 
@@ -235,3 +235,14 @@ third-party notices and this log. Common credential-pattern checks covered 178
 tracked files and 35 local commits with no matches; this is a bounded scan.
 Updated the README and submission notes with the repository URL. The GitHub
 release uses a source snapshot; the earlier local commit history was not imported.
+
+### 2026-09-22 - narrated public-site demo
+
+Recorded the public site's signed-out workflow, then the user supplied an edited
+English narrated and captioned version. Full audio/video decoding completed at
+115.04 seconds; the 31 subtitle entries preserve the demo's limitations. Published
+the MP4 and SRT in `demo/`, with a linked README. No live AI inference, cloud login,
+or cloud synchronization is claimed by the recording. X publication and the final
+contest submission remain outstanding.
+
+Demo: https://raw.githubusercontent.com/jidongan150-ui/pantry-weave/main/demo/pantry-weave-demo.mp4

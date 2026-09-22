@@ -1,0 +1,123 @@
+﻿1
+00:00:00,370 --> 00:00:04,247
+Pantry Weave: several recipes, one grocery list.
+
+2
+00:00:04,282 --> 00:00:07,440
+Recorded on the public website, without signing in.
+
+3
+00:00:08,300 --> 00:00:13,352
+Read the photo in your ChatGPT conversation, then open its recipe link.
+
+4
+00:00:13,387 --> 00:00:16,395
+Image reading happens outside this website.
+
+5
+00:00:17,235 --> 00:00:20,137
+This recipe was transcribed before recording.
+
+6
+00:00:20,172 --> 00:00:21,813
+Review before adding.
+
+7
+00:00:21,848 --> 00:00:25,830
+Amounts and servings not stated in the source remain unknown.
+
+8
+00:00:26,660 --> 00:00:31,005
+Switch the review to Chinese, including supported ingredient names.
+
+9
+00:00:31,835 --> 00:00:34,655
+Confirm the ingredients to add the first dish.
+
+10
+00:00:37,140 --> 00:00:38,530
+Add Apple Coleslaw.
+
+11
+00:00:38,565 --> 00:00:41,910
+The source serves twelve; fractional amounts are kept.
+
+12
+00:00:43,220 --> 00:00:45,298
+Choose green OR red cabbage.
+
+13
+00:00:45,333 --> 00:00:48,265
+Alternatives are not silently added together.
+
+14
+00:00:49,315 --> 00:00:51,343
+Both dishes feed one list.
+
+15
+00:00:51,378 --> 00:00:56,535
+Compatible amounts combine; unknown amounts remain separate from measured amounts.
+
+16
+00:00:57,355 --> 00:00:59,208
+Adjust the meal to three people.
+
+17
+00:00:59,243 --> 00:01:02,675
+Only recipes with a known serving count are scaled.
+
+18
+00:01:03,940 --> 00:01:06,755
+Recipes remain editable after import.
+
+19
+00:01:06,790 --> 00:01:09,635
+Here we add a preparation note from the source.
+
+20
+00:01:10,755 --> 00:01:12,845
+Already have salt? Tick it off.
+
+21
+00:01:12,880 --> 00:01:15,850
+It will be excluded from the shopping-list export.
+
+22
+00:01:16,820 --> 00:01:20,165
+Save the remaining ingredients as one clear image.
+
+23
+00:01:23,715 --> 00:01:25,680
+Export a Chinese version too.
+
+24
+00:01:25,715 --> 00:01:28,435
+You can view the saved image while shopping.
+
+25
+00:01:31,210 --> 00:01:32,613
+Prefer plain text?
+
+26
+00:01:32,648 --> 00:01:34,955
+Download the remaining shopping list.
+
+27
+00:01:35,860 --> 00:01:39,588
+Refresh: both recipes and pantry checks are still here.
+
+28
+00:01:39,623 --> 00:01:42,680
+This signed-out demo saves in the current browser.
+
+29
+00:01:45,595 --> 00:01:47,135
+Try the public website.
+
+30
+00:01:47,170 --> 00:01:49,073
+Source code is on GitHub.
+
+31
+00:01:49,108 --> 00:01:54,615
+Cloud sign-in, cloud sync and live AI recognition are not shown in this recording.
