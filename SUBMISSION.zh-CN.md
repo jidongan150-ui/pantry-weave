@@ -24,7 +24,7 @@ ChatGPT 识图与云端保存需要联网；下载好的清单 PNG 可以离线�
 | 公开 GitHub 仓库 | https://github.com/jidongan150-ui/pantry-weave；源代码已上传 | 已包含 MIT 许可证、第三方许可及构建日志 |
 | 根目录 hackathon.md | 已存在 | 加上最终仓库、演示链接与实测结论 |
 | 不到 3 分钟的演示 | 1:55.04 英文配音字幕成片，见仓库 demo 目录 | 免登录正式站点实录；未展示现场识图、云端登录及同步 |
-| X 或 LinkedIn 分享 | 文案草稿已准备，未发布 | 使用实际成品和最终链接，标注四家赞助方 |
+| X 或 LinkedIn 分享 | 用户已提供 X 帖子链接：https://x.com/EastgoCC/status/2102333720254619765 | X 对读取工具返回 403，尚未独立核对正文、四家提及和视频附件 |
 | 提交表单 | 未提交 | 使用下方官方准确入口 |
 
 官方提交入口：
@@ -100,7 +100,7 @@ before saving. Signed-out lists are stored in the current browser.
 - 公开仓库：https://github.com/jidongan150-ui/pantry-weave
 - 演示视频：https://raw.githubusercontent.com/jidongan150-ui/pantry-weave/main/demo/pantry-weave-demo.mp4
 - 视频说明：https://github.com/jidongan150-ui/pantry-weave/tree/main/demo 。此为公开 MP4；若提交表单限定视频平台，需按实际字段要求另行上传。
-- 社交帖子：文案已准备，最终链接和发布待完成。
+- 社交帖子：https://x.com/EastgoCC/status/2102333720254619765 （用户提供，正文和视频附件未独立核验）。
 
 这些链接齐备前不点击最终提交，不编造占位链接。
 
@@ -112,7 +112,7 @@ before saving. Signed-out lists are stored in the current browser.
 字幕明确说明本地演示、识图发生在对话中，不宣称演示了自动 API 或云端同步。
 此文件在本机，尚未上传为公开视频；最终比赛演示还需补充真实云端流程。
 
-## 社交文案草稿（未发布）
+## 原社交文案草稿（实际发布内容以用户帖子为准）
 
 I built Pantry Weave for the Convex All Gas Hackathon: several recipes, one grocery
 list. Read a recipe photo in ChatGPT, follow its import link, review the ingredients,

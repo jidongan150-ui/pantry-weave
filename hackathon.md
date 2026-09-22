@@ -12,7 +12,7 @@
 - **Auth:** Other (Sites ChatGPT sign-in with a Convex JWT bridge)
 - **AI models:** gpt-4.1-mini (URL-import default; not invoked); gemini-2.5-flash-lite (Puter image route configured; real inference not yet verified)
 - **Started:** 2026-09-18T12:43:34Z
-- **Last updated:** 2026-09-22T07:18:55Z
+- **Last updated:** 2026-09-22T09:48:28Z
 
 ## Log
 
@@ -246,3 +246,10 @@ or cloud synchronization is claimed by the recording. X publication and the fina
 contest submission remain outstanding.
 
 Demo: https://raw.githubusercontent.com/jidongan150-ui/pantry-weave/main/demo/pantry-weave-demo.mp4
+
+### 2026-09-22 - user-provided X publication link
+
+The user supplied https://x.com/EastgoCC/status/2102333720254619765 as the social
+post for this entry. Added the URL to the submission materials. X returned HTTP
+403 to the reading tool, so the post text, sponsor mentions and attached video
+have not been independently verified. The final contest submission is still pending.
