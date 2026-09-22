@@ -12,7 +12,7 @@
 - **Auth:** Other (Sites ChatGPT sign-in with a Convex JWT bridge)
 - **AI models:** gpt-4.1-mini (URL-import default; not invoked); gemini-2.5-flash-lite (Puter image route configured; real inference not yet verified)
 - **Started:** 2026-09-18T12:43:34Z
-- **Last updated:** 2026-09-22T10:27:29Z
+- **Last updated:** 2026-09-22T10:40:32Z
 
 ## Log
 
@@ -260,3 +260,10 @@ The user completed the VibeApps submission form and supplied a screenshot showin
 its green "Thanks for sharing!" success message. Recorded this as form submission
 acknowledgement. The resulting app URL and association with the All Gas judging
 event have not yet been independently verified; eligibility acceptance is not claimed.
+
+### 2026-09-22 - submission URL recorded
+
+The user supplied the resulting entry URL: https://vibeapps.dev/s/pantry-weave .
+An unauthenticated HTTP request returned 200, but only the generic client-rendered
+site shell was readable. Added the URL to README and submission materials; event
+tags, submitted field values and embedded video playback remain unverified.

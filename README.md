@@ -6,6 +6,8 @@
 
 公开源码：https://github.com/jidongan150-ui/pantry-weave
 
+参赛作品页：https://vibeapps.dev/s/pantry-weave
+
 演示视频：[1 分 55 秒，英文配音和字幕](https://github.com/jidongan150-ui/pantry-weave/tree/main/demo)。展示正式网站免登录流程；不包含现场 AI 识图或云端同步画面。
 
 站点已公开，访客无需邀请即可使用本机清单；登录后按用户保存云端清单。本次版本接入 Convex 云端开发环境。最新发布与公开访问证据见 `hackathon.md`。
