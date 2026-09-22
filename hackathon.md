@@ -12,7 +12,7 @@
 - **Auth:** Other (Sites ChatGPT sign-in with a Convex JWT bridge)
 - **AI models:** gpt-4.1-mini (URL-import default; not invoked); gemini-2.5-flash-lite (Puter image route configured; real inference not yet verified)
 - **Started:** 2026-09-18T12:43:34Z
-- **Last updated:** 2026-09-22T09:48:28Z
+- **Last updated:** 2026-09-22T10:27:29Z
 
 ## Log
 
@@ -253,3 +253,10 @@ The user supplied https://x.com/EastgoCC/status/2102333720254619765 as the socia
 post for this entry. Added the URL to the submission materials. X returned HTTP
 403 to the reading tool, so the post text, sponsor mentions and attached video
 have not been independently verified. The final contest submission is still pending.
+
+### 2026-09-22 - submission form success reported
+
+The user completed the VibeApps submission form and supplied a screenshot showing
+its green "Thanks for sharing!" success message. Recorded this as form submission
+acknowledgement. The resulting app URL and association with the All Gas judging
+event have not yet been independently verified; eligibility acceptance is not claimed.
